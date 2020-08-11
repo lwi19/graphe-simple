@@ -1,0 +1,13 @@
+/.build
+/Doc
+/venv
+/.vscode
+.idea
+**/__pycache__
+/.so
+*.pyc
+**/.mypy_cache
+*.cprof
+*.prf
+*.doc
+/localstuff
